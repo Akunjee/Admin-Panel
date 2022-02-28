@@ -1,0 +1,49 @@
+body{
+    margin:0;
+}
+.success{
+    color: green;
+    font-style: italic;
+}
+.container{
+    width: 80%;
+    background: #DDD;
+    margin: 0 auto;
+}
+.left-sidebar{
+    width: 30%;
+    background: #34495e;
+    min-height: 550px;
+    float: left;
+    overflow: hidden;
+}
+.admin-pages{
+
+}
+.admin-pages ul{
+    list-style: none;
+    padding: 0;
+}
+.admin-pages ul li{
+
+}
+.admin-pages ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+    display: block;
+    font-family: arial;
+    border: 1px solid grey;
+    background: #e74c3c;
+}
+.main-content{
+    overflow: hidden;
+    min-height:550px;
+}
+.main-content ul{
+    list-style:none;
+    padding:0;
+}
+.main-content ul li a{
+    text-decoration: none;
+}
